@@ -1,6 +1,6 @@
 # Hi, I am Ashwin.
 🏫 Computer Science Student!
-📌 Check out Instagram: https://www.instagram.com/ig.dude._/
+📌 Currently pursuing my Btech degree
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig.dude._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinshaju.pvt@gmail.com) 
